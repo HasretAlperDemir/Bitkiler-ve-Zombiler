@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/0.Menuden Onceki Sahne.unity
+    guid: ba93fcce14c3e414ea516d1f4b981f51
+  - enabled: 1
+    path: Assets/Scenes/1.Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/2.Secenekler.unity
+    guid: fe5aa5715e8f7614f85655889a0e20c6
+  - enabled: 1
+    path: Assets/Scenes/3.Level01.unity
+    guid: 6e62a5a47e90cf54783c80daf997c7f6
+  - enabled: 1
+    path: Assets/Scenes/4.Kazanma.unity
+    guid: 157bb6ad0d42c88469dbaaa7525cfd1d
+  - enabled: 1
+    path: Assets/Scenes/5.Kaybetme.unity
+    guid: 2e2fe044c661e1245972647fc0424994
+  m_configObjects: {}
